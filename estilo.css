@@ -1,0 +1,50 @@
+*
+{
+	margin: 0; 
+	padding: 0;
+}
+
+body
+{
+	background: #FBF8EF url('imagens/img/fundo.png') repeat-x;
+	font-size: 13px;
+}
+
+#container-principal 
+{
+	width: 1080px; 
+	margin: 0 auto; 
+	
+	margin-top: 30px;
+}
+
+.flutuar-imagem
+{
+	float: left;
+}
+
+#container-principal ul
+{
+	list-style-type: none;
+	float: right;
+}
+
+#container-principal ul li 
+{
+	float: left;
+	padding-left: 15px;
+	padding-top: 5px;
+	text-transform: uppercase;
+}
+
+a
+{
+	color: #af670a;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: #227115;
+}
+
